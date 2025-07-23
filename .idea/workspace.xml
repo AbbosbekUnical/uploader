@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3539891b-f8eb-4416-93c6-c7c3eb076b14" name="Changes" comment="new version 2.4.45 + 53" />
+    <list default="true" id="3539891b-f8eb-4416-93c6-c7c3eb076b14" name="Changes" comment="new version 2.4.46 + 54">
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -305,12 +308,19 @@
       <option name="project" value="LOCAL" />
       <updated>1752903948166</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="new version 2.4.46 + 54">
+      <option name="closed" value="true" />
+      <created>1752925006217</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1752925006217</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="new version 1.0.23 + 26" />
     <MESSAGE value="new version 1.0.27 + 27" />
     <MESSAGE value="new version 1.0.25 + 28" />
     <MESSAGE value="new version 1.0.26 + 29" />
@@ -335,6 +345,7 @@
     <MESSAGE value="new version 2.4.43 + 51" />
     <MESSAGE value="new version 2.4.44 + 52" />
     <MESSAGE value="new version 2.4.45 + 53" />
-    <option name="LAST_COMMIT_MESSAGE" value="new version 2.4.45 + 53" />
+    <MESSAGE value="new version 2.4.46 + 54" />
+    <option name="LAST_COMMIT_MESSAGE" value="new version 2.4.46 + 54" />
   </component>
 </project>
