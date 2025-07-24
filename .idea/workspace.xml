@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3539891b-f8eb-4416-93c6-c7c3eb076b14" name="Changes" comment="new version 2.4.47 + 55">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3539891b-f8eb-4416-93c6-c7c3eb076b14" name="Changes" comment="new version 2.4.48 + 56" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -323,12 +321,19 @@
       <option name="project" value="LOCAL" />
       <updated>1753267041643</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="new version 2.4.48 + 56">
+      <option name="closed" value="true" />
+      <created>1753353019980</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1753353019980</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="new version 1.0.25 + 28" />
     <MESSAGE value="new version 1.0.26 + 29" />
     <MESSAGE value="new version 1.0.27 + 30" />
     <MESSAGE value="new version 1.0.28 + 31" />
@@ -353,6 +358,7 @@
     <MESSAGE value="new version 2.4.45 + 53" />
     <MESSAGE value="new version 2.4.46 + 54" />
     <MESSAGE value="new version 2.4.47 + 55" />
-    <option name="LAST_COMMIT_MESSAGE" value="new version 2.4.47 + 55" />
+    <MESSAGE value="new version 2.4.48 + 56" />
+    <option name="LAST_COMMIT_MESSAGE" value="new version 2.4.48 + 56" />
   </component>
 </project>
