@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3539891b-f8eb-4416-93c6-c7c3eb076b14" name="Changes" comment="new version 2.7.2 + 69" />
+    <list default="true" id="3539891b-f8eb-4416-93c6-c7c3eb076b14" name="Changes" comment="new version 2.7.3 + 70" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -417,12 +417,19 @@
       <option name="project" value="LOCAL" />
       <updated>1758538155095</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="new version 2.7.3 + 70">
+      <option name="closed" value="true" />
+      <created>1758698018379</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1758698018379</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="new version 1.1.37 + 41" />
     <MESSAGE value="new version 1.1.38 + 42" />
     <MESSAGE value="new version 1.1.39 + 43" />
     <MESSAGE value="new version 1.2.39 + 44" />
@@ -447,6 +454,7 @@
     <MESSAGE value="new version 2.7.0 + 67" />
     <MESSAGE value="new version 2.7.1 + 68" />
     <MESSAGE value="new version 2.7.2 + 69" />
-    <option name="LAST_COMMIT_MESSAGE" value="new version 2.7.2 + 69" />
+    <MESSAGE value="new version 2.7.3 + 70" />
+    <option name="LAST_COMMIT_MESSAGE" value="new version 2.7.3 + 70" />
   </component>
 </project>

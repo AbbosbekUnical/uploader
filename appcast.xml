@@ -20,14 +20,14 @@
                        type="application/octet-stream" />
         </item>
         <item>
-            <title>Version 2.7.3</title>
+            <title>Version 2.7.4</title>
             <sparkle:releaseNotesLink>
                 https://your_domain/your_path/release_notes.html
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
-            <enclosure url="https://raw.githubusercontent.com/AbbosbekUnical/uploader/master/bito_2.7.3.exe"
-                       sparkle:dsaSignature="MDwCHEpu9UHQaKtdJY9eLwoWbeMZO+JJw5QgVZ58Y9YCHAHePJt65yLZVDqN6Xb+ecQR8Yrcr7YgXL263HA="
-                       sparkle:version="2.7.3+70"
+            <enclosure url="https://raw.githubusercontent.com/AbbosbekUnical/uploader/master/bito_2.7.4.exe"
+                       sparkle:dsaSignature="MD4CHQCyfKQbapmqLdpoeIV2fW5T9iWNMaED9NLQMFkMAh0Ag8I2x6kelx7aO9iOJwECWBYXNt92grBPtGhkQQ=="
+                       sparkle:version="2.7.4+71"
                        sparkle:os="windows"
                        length="0"
                        type="application/octet-stream" />
