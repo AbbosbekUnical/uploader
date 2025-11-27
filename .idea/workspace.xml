@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3539891b-f8eb-4416-93c6-c7c3eb076b14" name="Changes" comment="new version 2.10.3 + 83" />
+    <list default="true" id="3539891b-f8eb-4416-93c6-c7c3eb076b14" name="Changes" comment="new version 2.10.4 + 84">
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,14 +68,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737109770977</updated>
-    </task>
-    <task id="LOCAL-00009" summary="new version 1.0.27 + 30">
-      <option name="closed" value="true" />
-      <created>1738647557279</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1738647557279</updated>
     </task>
     <task id="LOCAL-00010" summary="new version 1.0.28 + 31">
       <option name="closed" value="true" />
@@ -458,12 +453,19 @@
       <option name="project" value="LOCAL" />
       <updated>1763458384839</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="new version 2.10.4 + 84">
+      <option name="closed" value="true" />
+      <created>1763814691076</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1763814691076</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="new version 2.4.48 + 56" />
     <MESSAGE value="new version 2.4.49 + 57" />
     <MESSAGE value="new version 2.4.50 + 58" />
     <MESSAGE value="new version 2.4.51 + 59" />
@@ -488,7 +490,8 @@
     <MESSAGE value="new version 2.10.1 + 81" />
     <MESSAGE value="new version 2.10.2 + 82" />
     <MESSAGE value="new version 2.10.3 + 83" />
-    <option name="LAST_COMMIT_MESSAGE" value="new version 2.10.3 + 83" />
+    <MESSAGE value="new version 2.10.4 + 84" />
+    <option name="LAST_COMMIT_MESSAGE" value="new version 2.10.4 + 84" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
