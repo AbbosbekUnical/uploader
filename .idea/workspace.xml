@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3539891b-f8eb-4416-93c6-c7c3eb076b14" name="Changes" comment="new version 2.10.10 + 90" />
+    <list default="true" id="3539891b-f8eb-4416-93c6-c7c3eb076b14" name="Changes" comment="new version 2.10.11 + 91">
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appcast.xml" beforeDir="false" afterPath="$PROJECT_DIR$/appcast.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +24,7 @@
   }
 }</component>
   <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="2c054686-2e28-42f7-8d32-9ff8e93d969a" />
+    <option name="defaultAccountId" value="80a5af2b-cc8e-4f11-b9a9-ade15cf6df8e" />
   </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
@@ -65,14 +69,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737109770977</updated>
-    </task>
-    <task id="LOCAL-00017" summary="new version 1.0.35 + 38">
-      <option name="closed" value="true" />
-      <created>1743688388273</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1743688388273</updated>
     </task>
     <task id="LOCAL-00018" summary="new version 1.0.36 + 39">
       <option name="closed" value="true" />
@@ -458,12 +454,19 @@
       <option name="project" value="LOCAL" />
       <updated>1764763480587</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="new version 2.10.11 + 91">
+      <option name="closed" value="true" />
+      <created>1766208443405</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1766208443405</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="new version 2.5.0 + 63" />
     <MESSAGE value="new version 2.6.1 + 66" />
     <MESSAGE value="new version 2.7.0 + 67" />
     <MESSAGE value="new version 2.7.1 + 68" />
@@ -488,7 +491,8 @@
     <MESSAGE value="new version 2.10.8 + 88" />
     <MESSAGE value="new version 2.10.9 + 89" />
     <MESSAGE value="new version 2.10.10 + 90" />
-    <option name="LAST_COMMIT_MESSAGE" value="new version 2.10.10 + 90" />
+    <MESSAGE value="new version 2.10.11 + 91" />
+    <option name="LAST_COMMIT_MESSAGE" value="new version 2.10.11 + 91" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
