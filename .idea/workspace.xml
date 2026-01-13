@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3539891b-f8eb-4416-93c6-c7c3eb076b14" name="Changes" comment="new version 2.10.12 + 92">
-      <change afterPath="$PROJECT_DIR$/bito_2.10.13.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bito_2.10.12.exe" beforeDir="false" />
-    </list>
+    <list default="true" id="3539891b-f8eb-4416-93c6-c7c3eb076b14" name="Changes" comment="new version 2.10.13 + 93" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,9 +22,6 @@
     &quot;assignee&quot;: &quot;AbbosbekUnical&quot;
   }
 }</component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="80a5af2b-cc8e-4f11-b9a9-ade15cf6df8e" />
-  </component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/AbbosbekUnical/uploader.git",
@@ -73,14 +65,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737109770977</updated>
-    </task>
-    <task id="LOCAL-00019" summary="new version 1.1.37 + 41">
-      <option name="closed" value="true" />
-      <created>1746527985190</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1746527985190</updated>
     </task>
     <task id="LOCAL-00020" summary="new version 1.1.38 + 42">
       <option name="closed" value="true" />
@@ -466,12 +450,19 @@
       <option name="project" value="LOCAL" />
       <updated>1766846643052</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="new version 2.10.13 + 93">
+      <option name="closed" value="true" />
+      <created>1767959058896</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1767959058896</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="new version 2.7.0 + 67" />
     <MESSAGE value="new version 2.7.1 + 68" />
     <MESSAGE value="new version 2.7.2 + 69" />
     <MESSAGE value="new version 2.7.3 + 70" />
@@ -496,7 +487,8 @@
     <MESSAGE value="new version 2.10.10 + 90" />
     <MESSAGE value="new version 2.10.11 + 91" />
     <MESSAGE value="new version 2.10.12 + 92" />
-    <option name="LAST_COMMIT_MESSAGE" value="new version 2.10.12 + 92" />
+    <MESSAGE value="new version 2.10.13 + 93" />
+    <option name="LAST_COMMIT_MESSAGE" value="new version 2.10.13 + 93" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
