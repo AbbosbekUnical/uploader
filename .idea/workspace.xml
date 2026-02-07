@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3539891b-f8eb-4416-93c6-c7c3eb076b14" name="Changes" comment="new version 2.10.19 + 99">
-      <change afterPath="$PROJECT_DIR$/bito_3.0.2.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appcast.xml" beforeDir="false" afterPath="$PROJECT_DIR$/appcast.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bito_2.10.19.exe" beforeDir="false" />
+    <list default="true" id="3539891b-f8eb-4416-93c6-c7c3eb076b14" name="Changes" comment="new version 3.0.2 + 102">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,14 +93,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737109770977</updated>
-    </task>
-    <task id="LOCAL-00030" summary="new version 2.4.45 + 53">
-      <option name="closed" value="true" />
-      <created>1752903948166</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1752903948166</updated>
     </task>
     <task id="LOCAL-00031" summary="new version 2.4.46 + 54">
       <option name="closed" value="true" />
@@ -488,7 +478,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770450508701</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="new version 3.0.2 + 102">
+      <option name="closed" value="true" />
+      <created>1770451414945</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1770451414945</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -516,9 +514,9 @@
     <MESSAGE value="new version 2.10.18 + 98" />
     <MESSAGE value="new version 3.0.0 + 100" />
     <MESSAGE value="new version 3.0.1 + 101" />
-    <MESSAGE value="new version 3.0.2 + 102" />
     <MESSAGE value="new version 2.10.19 + 99" />
-    <option name="LAST_COMMIT_MESSAGE" value="new version 2.10.19 + 99" />
+    <MESSAGE value="new version 3.0.2 + 102" />
+    <option name="LAST_COMMIT_MESSAGE" value="new version 3.0.2 + 102" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
