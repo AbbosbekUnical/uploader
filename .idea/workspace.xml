@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3539891b-f8eb-4416-93c6-c7c3eb076b14" name="Changes" comment="new version 3.3.3 + 117">
+    <list default="true" id="3539891b-f8eb-4416-93c6-c7c3eb076b14" name="Changes" comment="new version 3.4.0 + 118">
+      <change afterPath="$PROJECT_DIR$/bito_3.4.1.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appcast.xml" beforeDir="false" afterPath="$PROJECT_DIR$/appcast.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bito_3.4.0.exe" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,14 +98,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737109770977</updated>
-    </task>
-    <task id="LOCAL-00043" summary="new version 2.7.1 + 68">
-      <option name="closed" value="true" />
-      <created>1758522200243</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1758522200243</updated>
     </task>
     <task id="LOCAL-00044" summary="new version 2.7.2 + 69">
       <option name="closed" value="true" />
@@ -488,12 +483,19 @@
       <option name="project" value="LOCAL" />
       <updated>1774345101469</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="new version 3.4.0 + 118">
+      <option name="closed" value="true" />
+      <created>1774891914856</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1774891914856</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="new version 2.10.10 + 90" />
     <MESSAGE value="new version 2.10.11 + 91" />
     <MESSAGE value="new version 2.10.12 + 92" />
     <MESSAGE value="new version 2.10.13 + 93" />
@@ -518,7 +520,8 @@
     <MESSAGE value="new version 3.3.1 + 115" />
     <MESSAGE value="new version 3.3.2 + 116" />
     <MESSAGE value="new version 3.3.3 + 117" />
-    <option name="LAST_COMMIT_MESSAGE" value="new version 3.3.3 + 117" />
+    <MESSAGE value="new version 3.4.0 + 118" />
+    <option name="LAST_COMMIT_MESSAGE" value="new version 3.4.0 + 118" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
