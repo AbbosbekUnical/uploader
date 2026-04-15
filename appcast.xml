@@ -25,8 +25,8 @@
                 https://your_domain/your_path/release_notes.html
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
-            <enclosure url="https://raw.githubusercontent.com/AbbosbekUnical/uploader/new-version/bito_3.4.3.exe"
-                       sparkle:dsaSignature="MDwCHClLloBca9lbDhhrz7IQoZCoU6brSwVJxKNxPxsCHDgJ5tY23eIVuDvS3fqyLZMMXamHe+cEIb81bYU="
+            <enclosure url="https://raw.githubusercontent.com/AbbosbekUnical/uploader/bifoza/bifoza_3.4.3.exe"
+                       sparkle:dsaSignature="MDwCHHc/eheFkUVxTinRLUcoAMwdHttZtqcTEpKWiAMCHGyUHEr2LAtZ9f8P+/NWw0LB9OUDKjJQhByiYec="
                        sparkle:version="3.4.3+121"
                        sparkle:os="windows"
                        length="0"
