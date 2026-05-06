@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3539891b-f8eb-4416-93c6-c7c3eb076b14" name="Changes" comment="new version 3.4.3 + 121">
-      <change afterPath="$PROJECT_DIR$/bifoza_3.5.2.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appcast.xml" beforeDir="false" afterPath="$PROJECT_DIR$/appcast.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bifoza_3.5.1.exe" beforeDir="false" />
-    </list>
+    <list default="true" id="3539891b-f8eb-4416-93c6-c7c3eb076b14" name="Changes" comment="new version 3.5.2 + 128" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,14 +92,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737109770977</updated>
-    </task>
-    <task id="LOCAL-00048" summary="new version 2.8.1 + 73">
-      <option name="closed" value="true" />
-      <created>1761656844224</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1761656844224</updated>
     </task>
     <task id="LOCAL-00049" summary="new version 2.8.2 + 74">
       <option name="closed" value="true" />
@@ -489,12 +477,19 @@
       <option name="project" value="LOCAL" />
       <updated>1776239429727</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="new version 3.5.2 + 128">
+      <option name="closed" value="true" />
+      <created>1778005978987</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1778005978987</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="new version 2.10.14 + 94" />
     <MESSAGE value="new version 2.10.15 + 95" />
     <MESSAGE value="new version 2.10.16 + 96" />
     <MESSAGE value="new version 2.10.17 + 97" />
@@ -519,7 +514,8 @@
     <MESSAGE value="new version 3.4.1 + 119" />
     <MESSAGE value="new version 3.4.2 + 120" />
     <MESSAGE value="new version 3.4.3 + 121" />
-    <option name="LAST_COMMIT_MESSAGE" value="new version 3.4.3 + 121" />
+    <MESSAGE value="new version 3.5.2 + 128" />
+    <option name="LAST_COMMIT_MESSAGE" value="new version 3.5.2 + 128" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
