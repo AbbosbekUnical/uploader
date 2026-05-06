@@ -26,7 +26,7 @@
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
             <enclosure url="https://raw.githubusercontent.com/AbbosbekUnical/uploader/new-version/bito_3.5.0.exe"
-                       sparkle:dsaSignature="MD4CHQDCp0Lxp/913lTxN7d3KhhaM+u3CC+3habUTUxGAh0AtYIbaiE2Mvx3BCD1V4TJJ4YEaDff4HtS0VeUJA=="
+                       sparkle:dsaSignature="MD4CHQDCp0Lxp/913lTxN7d3KhhaM+u3CC+3habUTUxGAh0AtYIbaiE2Mvx3BCD1V4"
                        sparkle:version="3.5.0+126"
                        sparkle:os="windows"
                        length="0"

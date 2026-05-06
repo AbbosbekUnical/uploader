@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3539891b-f8eb-4416-93c6-c7c3eb076b14" name="Changes" comment="new version 3.5.1 + 127" />
+    <list default="true" id="3539891b-f8eb-4416-93c6-c7c3eb076b14" name="Changes" comment="new version 3.5.0 + 126">
+      <change beforePath="$PROJECT_DIR$/appcast.xml" beforeDir="false" afterPath="$PROJECT_DIR$/appcast.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,14 +94,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737109770977</updated>
-    </task>
-    <task id="LOCAL-00048" summary="new version 2.8.1 + 73">
-      <option name="closed" value="true" />
-      <created>1761656844224</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1761656844224</updated>
     </task>
     <task id="LOCAL-00049" summary="new version 2.8.2 + 74">
       <option name="closed" value="true" />
@@ -485,7 +479,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777357778189</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="new version 3.5.0 + 126">
+      <option name="closed" value="true" />
+      <created>1778069516853</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1778069516854</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
