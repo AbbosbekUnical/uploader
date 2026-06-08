@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3539891b-f8eb-4416-93c6-c7c3eb076b14" name="Changes" comment="new version 3.5.10 + 136" />
+    <list default="true" id="3539891b-f8eb-4416-93c6-c7c3eb076b14" name="Changes" comment="new version 3.6.0 + 138">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,14 +94,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737109770977</updated>
-    </task>
-    <task id="LOCAL-00053" summary="new version 2.9.0 + 78">
-      <option name="closed" value="true" />
-      <created>1762873129370</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1762873129370</updated>
     </task>
     <task id="LOCAL-00054" summary="new version 2.10.0 + 80">
       <option name="closed" value="true" />
@@ -485,12 +479,19 @@
       <option name="project" value="LOCAL" />
       <updated>1780577996739</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="new version 3.6.0 + 138">
+      <option name="closed" value="true" />
+      <created>1780638604429</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1780638604429</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="new version 3.0.0 + 100" />
     <MESSAGE value="new version 3.0.1 + 101" />
     <MESSAGE value="new version 2.10.19 + 99" />
     <MESSAGE value="new version 3.0.2 + 102" />
@@ -515,7 +516,8 @@
     <MESSAGE value="new version 3.5.6 + 132" />
     <MESSAGE value="new version 3.5.8 + 134" />
     <MESSAGE value="new version 3.5.10 + 136" />
-    <option name="LAST_COMMIT_MESSAGE" value="new version 3.5.10 + 136" />
+    <MESSAGE value="new version 3.6.0 + 138" />
+    <option name="LAST_COMMIT_MESSAGE" value="new version 3.6.0 + 138" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
