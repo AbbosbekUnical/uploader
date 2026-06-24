@@ -20,14 +20,14 @@
                        type="application/octet-stream" />
         </item>
         <item>
-            <title>Version 3.6.1</title>
+            <title>Version 3.7.0</title>
             <sparkle:releaseNotesLink>
                 https://your_domain/your_path/release_notes.html
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
-            <enclosure url="https://raw.githubusercontent.com/AbbosbekUnical/uploader/bifoza/bifoza_3.6.1.exe"
-                       sparkle:dsaSignature="MD0CHQDiY3UnDelupQPoVqL3NiN5SGFmPwMq/M87qjaLAhxIxvHAO5N8rwpbpvnla3cLsre3TaZpt5Vw2ki5"
-                       sparkle:version="3.6.1+139"
+            <enclosure url="https://raw.githubusercontent.com/AbbosbekUnical/uploader/bifoza/bifoza_3.7.0.exe"
+                       sparkle:dsaSignature="MDwCHBxBbPnodAfoSo0VxLeF0C0pAHJczjgDV2/80ooCHCmW9fnB7sASElyK2wCgnj9BRqoeeiuxPcqY1/k="
+                       sparkle:version="3.7.0+140"
                        sparkle:os="windows"
                        length="0"
                        type="application/octet-stream" />
