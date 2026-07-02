@@ -1,35 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>Bito Desktop</title>
+        <title>Bifoza Desktop</title>
         <description>Most recent updates</description>
         <language>en</language>
         <item>
-            <title>Version 1.1.0</title>
-            <!-- For the macOS item, it is recommended to add 'sparkle:version' and 'sparkle:shortVersionString' to the item node, rather than as part of the enclosure. -->
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
-            <sparkle:releaseNotesLink>
-                https://your_domain/your_path/release_notes.html
-            </sparkle:releaseNotesLink>
-            <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
-            <enclosure url="1.1.0+2/auto_updater_example-1.1.0+2-macos.zip"
-                       sparkle:edSignature="pbdyPt92pnPkzLfQ7BhS9hbjcV9/ndkzSIlWjFQIUMcaCNbAFO2fzl0tISMNJApG2POTkZY0/kJQ2yZYOSVgAA=="
-                       sparkle:os="macos"
-                       length="13400992"
+            <title>Version 3.8.1</title>
+            <pubDate>Thu, 02 Jul 2026 13:43:19 +0000</pubDate>
+            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/bifoza-v3.8.1/bifoza_3.8.1.exe"
+                       sparkle:dsaSignature="MD0CHQChfZjBQF3eyq1Fntpflz7KSEWC2Q8y6yrUgBzzAhxDosG4mOK5ZomarTKF
+wx7q7Hm2EePZnXq5jaBb"
+                       sparkle:version="3.8.1+143"
+                       sparkle:os="windows"
+                       length="52718810"
                        type="application/octet-stream" />
         </item>
         <item>
-            <title>Version 3.8.0</title>
-            <sparkle:releaseNotesLink>
-                https://your_domain/your_path/release_notes.html
-            </sparkle:releaseNotesLink>
-            <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
-            <enclosure url="https://raw.githubusercontent.com/AbbosbekUnical/uploader/bifoza/bifoza_3.8.0.exe"
-                       sparkle:dsaSignature="MDwCHHLHeQxgta2086aWgQuK7l8dkMKNJE4eZt2iU7QCHGWeIOwfZ/7IvKpS1c1MC09X+/WPXF0piS+cIPU="
-                       sparkle:version="3.8.0+142"
-                       sparkle:os="windows"
-                       length="0"
+            <title>Version 3.8.1</title>
+            <pubDate>Thu, 02 Jul 2026 13:43:19 +0000</pubDate>
+            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/bifoza-v3.8.1/bifoza_3.8.1.dmg"
+                       sparkle:edSignature="liqEKC8sUEZTjlJPjyaPHz4AJ5+dR76KoHzkYM7hTluNIjcko5lwK7Ay38oOpXnV2r7ZDkTYa7mM1r1QVPZZAA=="
+                       sparkle:version="3.8.1+143"
+                       sparkle:os="macos"
+                       length="53625119"
                        type="application/octet-stream" />
         </item>
     </channel>
