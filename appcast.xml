@@ -5,24 +5,24 @@
         <description>Most recent updates</description>
         <language>en</language>
         <item>
-            <title>Version 3.9.0</title>
-            <pubDate>Thu, 02 Jul 2026 19:45:23 +0000</pubDate>
-            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/bito-v3.9.0/bito_3.9.0.exe"
-                       sparkle:dsaSignature="MDwCHEwiyCE+zGm4Fl94f3iMQEZxBf2n8k7GZziFE/4CHAN2QuhLfmRI0U6gaC+K
-lPNUXV3NC6O74AHNnqE="
-                       sparkle:version="3.9.0+144"
+            <title>Version 3.10.0</title>
+            <pubDate>Mon, 06 Jul 2026 04:07:11 +0000</pubDate>
+            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/bito-v3.10.0/bito_3.10.0.exe"
+                       sparkle:dsaSignature="MDwCHBFJX0uO2m9z2sAEPron0nS5DuqhKeyzKf4Zb5gCHDo/LVS7KkHrTn/qiGal
+gL/qIy4snLNegLsMFmk="
+                       sparkle:version="3.10.0+145"
                        sparkle:os="windows"
-                       length="52426808"
+                       length="52882413"
                        type="application/octet-stream" />
         </item>
         <item>
-            <title>Version 3.9.0</title>
-            <pubDate>Thu, 02 Jul 2026 19:45:23 +0000</pubDate>
-            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/bito-v3.9.0/bito_3.9.0.dmg"
-                       sparkle:edSignature="t3EF1rpPLj1p0Uvxthgs/BuVNmmr+fsvZX691SAXcJc78MLCmjtltkXCGX1dOkX3tr1XQWlhNKoLTJ4VwkKsCA=="
-                       sparkle:version="3.9.0+144"
+            <title>Version 3.10.0</title>
+            <pubDate>Mon, 06 Jul 2026 04:07:11 +0000</pubDate>
+            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/bito-v3.10.0/bito_3.10.0.dmg"
+                       sparkle:edSignature="t+iY2frP8FeCBR8j7utoxAZBMet+0CNPIztrXQsYDqOgqrcnbzCGEztQmUWOY3G53+qeeZsTGzGfdcq11GfvCA=="
+                       sparkle:version="3.10.0+145"
                        sparkle:os="macos"
-                       length="52657530"
+                       length="53651263"
                        type="application/octet-stream" />
         </item>
     </channel>
