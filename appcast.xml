@@ -5,24 +5,24 @@
         <description>Most recent updates</description>
         <language>en</language>
         <item>
-            <title>Version 3.9.0</title>
-            <pubDate>Thu, 02 Jul 2026 19:45:42 +0000</pubDate>
-            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/bifoza-v3.9.0/bifoza_3.9.0.exe"
-                       sparkle:dsaSignature="MD0CHDaoGNO6NsIb7V+8Cpsy8XSnazL/OeKoL6GWn5ICHQCEhwvM6WNtDQi9xXSd
-7p2HKwDywtUF86sKvb2z"
-                       sparkle:version="3.9.0+144"
+            <title>Version 3.10.0</title>
+            <pubDate>Mon, 06 Jul 2026 04:07:24 +0000</pubDate>
+            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/bifoza-v3.10.0/bifoza_3.10.0.exe"
+                       sparkle:dsaSignature="MDwCHDhFz8Tejh1VSxd7Y5BfwppOI9lGP4Sz8Nt9i6MCHGpPhLlPDvHiyfMeosXQ
+JtTDOIrpRXQQ9gw9u60="
+                       sparkle:version="3.10.0+145"
                        sparkle:os="windows"
-                       length="52737932"
+                       length="53189320"
                        type="application/octet-stream" />
         </item>
         <item>
-            <title>Version 3.9.0</title>
-            <pubDate>Thu, 02 Jul 2026 19:45:42 +0000</pubDate>
-            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/bifoza-v3.9.0/bifoza_3.9.0.dmg"
-                       sparkle:edSignature="bMQ2pKTBOQX7QkB2D1zrKyuyZOYoCkKeDik3tzgprGHMXctoArs5e/HP3cNFTD1zgUGcH2Atjgr2E7kCYJYSCQ=="
-                       sparkle:version="3.9.0+144"
+            <title>Version 3.10.0</title>
+            <pubDate>Mon, 06 Jul 2026 04:07:24 +0000</pubDate>
+            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/bifoza-v3.10.0/bifoza_3.10.0.dmg"
+                       sparkle:edSignature="lTKm9qpZAdDgtXDBJsuN3Qb5CJzkbOif5E2I5LkVYBFJMAjlZd7A5O13XtYINf/Nof1GLw/tlU942yDRDp2aDw=="
+                       sparkle:version="3.10.0+145"
                        sparkle:os="macos"
-                       length="53653054"
+                       length="54106939"
                        type="application/octet-stream" />
         </item>
     </channel>
