@@ -5,24 +5,24 @@
         <description>Most recent updates</description>
         <language>en</language>
         <item>
-            <title>Version 1.2.2</title>
-            <pubDate>Fri, 24 Jul 2026 06:35:32 +0000</pubDate>
-            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/robosell-v1.2.2/robosell_1.2.2.exe"
-                       sparkle:dsaSignature="MDwCHADNr5Y6foqeEYWJ0W4GX2obLOq4OB9PDzGILPwCHBB9M+IVoWu/Ct6epfCP
-zsaaWoGKRCjatVL9CMc="
-                       sparkle:version="1.2.2+6"
+            <title>Version 1.3.0</title>
+            <pubDate>Wed, 05 Aug 2026 06:52:45 +0000</pubDate>
+            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/robosell-v1.3.0/robosell_1.3.0.exe"
+                       sparkle:dsaSignature="MDwCHBb/vuHBSdkhFGT+idYYhGhhOSpK9gaSeaw+xwoCHD4SD3SLFKchLaX6BU16
+S8sK8K7HGF5SirMYs6U="
+                       sparkle:version="1.3.0+7"
                        sparkle:os="windows"
-                       length="53490185"
+                       length="53673492"
                        type="application/octet-stream" />
         </item>
         <item>
-            <title>Version 1.2.2</title>
-            <pubDate>Fri, 24 Jul 2026 06:35:32 +0000</pubDate>
-            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/robosell-v1.2.2/robosell_1.2.2.dmg"
-                       sparkle:edSignature="U4U6moEwqTAAQQP5s0Mld/k0MQzCIRk/JABwlHiMzTpv/Rrgx/s1zFaX+Scj37KeCsrmO2I4q7usqHb3HmQzDw=="
-                       sparkle:version="1.2.2+6"
+            <title>Version 1.3.0</title>
+            <pubDate>Wed, 05 Aug 2026 06:52:45 +0000</pubDate>
+            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/robosell-v1.3.0/robosell_1.3.0.dmg"
+                       sparkle:edSignature="ZO/7gXg6WtVTW3A8oVeQc072khwttEcOz0W/SjprUYcE7alrO6ZDJgA6YpuUa586Jx+Ojz3SvHELEBO8/xguCw=="
+                       sparkle:version="1.3.0+7"
                        sparkle:os="macos"
-                       length="56305113"
+                       length="56871168"
                        type="application/octet-stream" />
         </item>
     </channel>
