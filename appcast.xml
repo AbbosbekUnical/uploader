@@ -5,24 +5,24 @@
         <description>Most recent updates</description>
         <language>en</language>
         <item>
-            <title>Version 3.12.2</title>
-            <pubDate>Fri, 24 Jul 2026 06:35:20 +0000</pubDate>
-            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/bifoza-v3.12.2/bifoza_3.12.2.exe"
-                       sparkle:dsaSignature="MDwCHG1GRjg1gI8AkpxkVyHe8dXTh58W5Rp/p4pcGTcCHF6MXtEVUoeNQ7JqkmIC
-YopvlPtOS0Xq8Sbl9IE="
-                       sparkle:version="3.12.2+151"
+            <title>Version 3.13.0</title>
+            <pubDate>Wed, 05 Aug 2026 06:52:33 +0000</pubDate>
+            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/bifoza-v3.13.0/bifoza_3.13.0.exe"
+                       sparkle:dsaSignature="MD4CHQC6KRvNTWzLDMMyS1vV/3l6gNxOso2Co4BxTvAsAh0AyWDj+k7IhcKz45Ry
+li4VW17p9A1EIF/eC4mskg=="
+                       sparkle:version="3.13.0+152"
                        sparkle:os="windows"
-                       length="53784306"
+                       length="53965480"
                        type="application/octet-stream" />
         </item>
         <item>
-            <title>Version 3.12.2</title>
-            <pubDate>Fri, 24 Jul 2026 06:35:20 +0000</pubDate>
-            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/bifoza-v3.12.2/bifoza_3.12.2.dmg"
-                       sparkle:edSignature="QijFWw8nJdYY2B+g7u9Z5uZ2Fr8QXOtCYGh6urimT7cgSaSo9AXwjC9K+tTSvtlkDuW/Xt22hJisWlasFQZZCw=="
-                       sparkle:version="3.12.2+151"
+            <title>Version 3.13.0</title>
+            <pubDate>Wed, 05 Aug 2026 06:52:33 +0000</pubDate>
+            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/bifoza-v3.13.0/bifoza_3.13.0.dmg"
+                       sparkle:edSignature="l+ASYq79eeCGvz1rQmMRJebQ1U3jUxcZhvM1tx6uIfHyhVC48Q8M44RvAPwXm1lXX03R1Hl77O3Oei4m9SOlBg=="
+                       sparkle:version="3.13.0+152"
                        sparkle:os="macos"
-                       length="56740272"
+                       length="57384925"
                        type="application/octet-stream" />
         </item>
     </channel>
