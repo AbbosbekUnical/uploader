@@ -5,24 +5,23 @@
         <description>Most recent updates</description>
         <language>en</language>
         <item>
-            <title>Version 1.3.4</title>
-            <pubDate>Tue, 11 Aug 2026 17:17:54 +0000</pubDate>
-            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/robosell-v1.3.4/robosell_1.3.4.exe"
-                       sparkle:dsaSignature="MDwCHDxppC42AAM/Q1Ha7uBVRBbV/AldgOxOcwIqfVwCHB7ahlSvH+LaYsKUAqQg
-5eBuswPd8Pp0viTT/W0="
-                       sparkle:version="1.3.4+11"
+            <title>Version 1.3.6</title>
+            <pubDate>Sun, 16 Aug 2026 15:09:19 +0000</pubDate>
+            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/robosell-v1.3.6/robosell_1.3.6.exe"
+                       sparkle:dsaSignature="MD0CHB9FDto0qiO7oOXJVwmHwIfQI2QsAW+2i6GX+ocCHQCAlogewmlnP8dNWb6Qlg1AnxDHu7sG50MTCiX+"
+                       sparkle:version="1.3.6+13"
                        sparkle:os="windows"
-                       length="53746859"
+                       length="53921997"
                        type="application/octet-stream" />
         </item>
         <item>
-            <title>Version 1.3.4</title>
-            <pubDate>Tue, 11 Aug 2026 17:17:54 +0000</pubDate>
-            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/robosell-v1.3.4/robosell_1.3.4.dmg"
-                       sparkle:edSignature="l8zwEO0m/1m13/25f0z7eezXaI++5bBbktTTiU6zdudQnbpeVIvZrvhstbzL3VH11FwpKK4/d7kKULZkiPMkCg=="
-                       sparkle:version="1.3.4+11"
+            <title>Version 1.3.6</title>
+            <pubDate>Sun, 16 Aug 2026 15:09:19 +0000</pubDate>
+            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/robosell-v1.3.6/robosell_1.3.6.dmg"
+                       sparkle:edSignature="U17D/6mrsdRthyZ71k/BdoElNuXdITsG0QuIWN30D1v7cqgWP5mXGhSuzPhmXVHxKlMDKT43WbtScjlz+g0XCw=="
+                       sparkle:version="1.3.6+13"
                        sparkle:os="macos"
-                       length="57453619"
+                       length="57643750"
                        type="application/octet-stream" />
         </item>
     </channel>
