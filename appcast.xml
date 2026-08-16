@@ -5,24 +5,23 @@
         <description>Most recent updates</description>
         <language>en</language>
         <item>
-            <title>Version 3.13.4</title>
-            <pubDate>Tue, 11 Aug 2026 17:17:41 +0000</pubDate>
-            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/bifoza-v3.13.4/bifoza_3.13.4.exe"
-                       sparkle:dsaSignature="MD4CHQC195a0QURw6UWYlw+25v+uI5pYruxeXQQIF9bSAh0A3m0HAT9LgxlPHSZV
-FBOzoUHeggHYE7k0gVeSTw=="
-                       sparkle:version="3.13.4+156"
+            <title>Version 3.13.6</title>
+            <pubDate>Sun, 16 Aug 2026 15:08:48 +0000</pubDate>
+            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/bifoza-v3.13.6/bifoza_3.13.6.exe"
+                       sparkle:dsaSignature="MDwCHE7f8zw6JAiagraXGnISJMGc2ASODuGbLeee4OoCHBFSjOFtV3Oyx/9u18ROWdFJm7ej6TFkwdyxgec="
+                       sparkle:version="3.13.6+158"
                        sparkle:os="windows"
-                       length="54036798"
+                       length="54213995"
                        type="application/octet-stream" />
         </item>
         <item>
-            <title>Version 3.13.4</title>
-            <pubDate>Tue, 11 Aug 2026 17:17:41 +0000</pubDate>
-            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/bifoza-v3.13.4/bifoza_3.13.4.dmg"
-                       sparkle:edSignature="yCXuKzhCNYagLacQSM09TekB8TLFL3pNqldiwAi1dQ5XYJWhDmjxVlafKosP2J0wDwK1Ig8sqiWmaizOJj2rCA=="
-                       sparkle:version="3.13.4+156"
+            <title>Version 3.13.6</title>
+            <pubDate>Sun, 16 Aug 2026 15:08:48 +0000</pubDate>
+            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/bifoza-v3.13.6/bifoza_3.13.6.dmg"
+                       sparkle:edSignature="ckJxRR1CmilsF3LXBmJrV+Cp9oklKoYuAZOKURbBphCq7E1IOhIh85YP1t/dsQQXnYz/qWVAoGoEPpb9uThVCQ=="
+                       sparkle:version="3.13.6+158"
                        sparkle:os="macos"
-                       length="57903283"
+                       length="58535462"
                        type="application/octet-stream" />
         </item>
     </channel>
