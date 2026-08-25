@@ -5,23 +5,23 @@
         <description>Most recent updates</description>
         <language>en</language>
         <item>
-            <title>Version 3.14.1</title>
-            <pubDate>Mon, 24 Aug 2026 10:54:38 +0000</pubDate>
-            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/bifoza-v3.14.1/bifoza_3.14.1.exe"
-                       sparkle:dsaSignature="MD0CHBCBI4uJ+T6qSKcZ+MIxXbbM4Iy+/faCQtVlZ+gCHQCMV3/2OJOHFHGuGegQGgDFctbOJu/Cp4AwMUU2"
-                       sparkle:version="3.14.1+162"
+            <title>Version 3.14.2</title>
+            <pubDate>Tue, 25 Aug 2026 06:54:12 +0000</pubDate>
+            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/bifoza-v3.14.2/bifoza_3.14.2.exe"
+                       sparkle:dsaSignature="MDwCHCBK+hy/zWs1S0ke4fDXEtKT5tPBKAk9dpYoD+wCHFsUZ3kz8lxmSZyLXpMk0fWHNvQfWXKmIIuUbuM="
+                       sparkle:version="3.14.2+163"
                        sparkle:os="windows"
-                       length="54359358"
+                       length="54356589"
                        type="application/octet-stream" />
         </item>
         <item>
-            <title>Version 3.14.1</title>
-            <pubDate>Mon, 24 Aug 2026 10:54:38 +0000</pubDate>
-            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/bifoza-v3.14.1/bifoza_3.14.1.dmg"
-                       sparkle:edSignature="cfJty5kjtJUE6biT1NKk7YMev2kM7KYvgMyeR8xI66LHD8HfIlOvYHcTQH26Lky5R1wo7tAxxpTMD2z0dpf+BQ=="
-                       sparkle:version="3.14.1+162"
+            <title>Version 3.14.2</title>
+            <pubDate>Tue, 25 Aug 2026 06:54:12 +0000</pubDate>
+            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/bifoza-v3.14.2/bifoza_3.14.2.dmg"
+                       sparkle:edSignature="GwD8PHFPto+YTeXwgg/ww0j5623uciJOqkJv64fNnBb0Ivyh5NgsMBRfhrG2jJTvPuM05/r6IUEHaw0lUCN7Bg=="
+                       sparkle:version="3.14.2+163"
                        sparkle:os="macos"
-                       length="59337746"
+                       length="59016016"
                        type="application/octet-stream" />
         </item>
     </channel>
