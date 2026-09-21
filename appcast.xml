@@ -5,23 +5,13 @@
         <description>Most recent updates</description>
         <language>en</language>
         <item>
-            <title>Version 3.15.1</title>
-            <pubDate>Tue, 08 Sep 2026 06:55:22 +0000</pubDate>
-            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/bito-v3.15.1/bito_3.15.1.exe"
-                       sparkle:dsaSignature="MD0CHDt5chaDVLHYiGkgdG5J/Nv4ocPNmUm3vnTILsQCHQCi1WpEqdctmmJMdPLR/JCxizqWbv/9LwiWYnVd"
-                       sparkle:version="3.15.1+165"
+            <title>Version 3.16.0</title>
+            <pubDate>Mon, 21 Sep 2026 06:11:08 +0000</pubDate>
+            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/bito-v3.16.0/bito_3.16.0.exe"
+                       sparkle:dsaSignature="MDwCHCrAHD1MOvwB1/Z4OoHtGbFggttwFiQ7VfcOczgCHBDKRwDk/Tf47cUKjAlN8qkRaodmBOHwo55twIA="
+                       sparkle:version="3.16.0+166"
                        sparkle:os="windows"
-                       length="54071312"
-                       type="application/octet-stream" />
-        </item>
-        <item>
-            <title>Version 3.15.1</title>
-            <pubDate>Tue, 08 Sep 2026 06:55:22 +0000</pubDate>
-            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/bito-v3.15.1/bito_3.15.1.dmg"
-                       sparkle:edSignature="llac55Ja5MmGei5KldJbFIVnZFfx9nOJ8zJeMj5XR4cMvhmS9BbQe0U7oKWZKhSDTSp3/Z0EhrPvru1ZE5QICQ=="
-                       sparkle:version="3.15.1+165"
-                       sparkle:os="macos"
-                       length="58257661"
+                       length="54133474"
                        type="application/octet-stream" />
         </item>
     </channel>
