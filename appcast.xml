@@ -5,23 +5,13 @@
         <description>Most recent updates</description>
         <language>en</language>
         <item>
-            <title>Version 3.15.1</title>
-            <pubDate>Tue, 08 Sep 2026 06:55:45 +0000</pubDate>
-            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/bifoza-v3.15.1/bifoza_3.15.1.exe"
-                       sparkle:dsaSignature="MDwCHBbJT4IMicmh2j0NGUo92nhjUrq++DkJz+a+TmoCHFploTW3bQ31fgOlGXgBVwT8uEi2r2ljBtSiY1M="
-                       sparkle:version="3.15.1+165"
+            <title>Version 3.16.0</title>
+            <pubDate>Mon, 21 Sep 2026 06:12:09 +0000</pubDate>
+            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/bifoza-v3.16.0/bifoza_3.16.0.exe"
+                       sparkle:dsaSignature="MD0CHCx7IEwxbP1UP8lV/Q4xrKUa+d5yBJKH5z0wdDACHQCMPCc79zuQGBl7iErRdd5lqJXy1vNAmKjZx+Fi"
+                       sparkle:version="3.16.0+166"
                        sparkle:os="windows"
-                       length="54380705"
-                       type="application/octet-stream" />
-        </item>
-        <item>
-            <title>Version 3.15.1</title>
-            <pubDate>Tue, 08 Sep 2026 06:55:45 +0000</pubDate>
-            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/bifoza-v3.15.1/bifoza_3.15.1.dmg"
-                       sparkle:edSignature="fH7mj9ZZOh5N4+qww/2F25X3miMSFZ/ixam6J2rx6sICbE8ipaZpjfAllxWQ/1fg5n4i5j9k2vWlHXLEKlgSAA=="
-                       sparkle:version="3.15.1+165"
-                       sparkle:os="macos"
-                       length="58602184"
+                       length="54422108"
                        type="application/octet-stream" />
         </item>
     </channel>
