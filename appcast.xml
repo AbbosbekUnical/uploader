@@ -5,13 +5,13 @@
         <description>Most recent updates</description>
         <language>en</language>
         <item>
-            <title>Version 3.16.1</title>
-            <pubDate>Thu, 24 Sep 2026 11:31:39 +0000</pubDate>
-            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/bifoza-v3.16.1/bifoza_3.16.1.exe"
-                       sparkle:dsaSignature="MD0CHCMDGREVESThKxIFzd1WN3MHU9lHne/svIbEA5MCHQCKcSxB8G2lyin/bGP4tMU43V3FcLwS2ixPy1Tm"
-                       sparkle:version="3.16.1+167"
+            <title>Version 3.17.0</title>
+            <pubDate>Mon, 28 Sep 2026 17:40:03 +0000</pubDate>
+            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/bifoza-v3.17.0/bifoza_3.17.0.exe"
+                       sparkle:dsaSignature="MD0CHDy2Fuy/vxnGwPoIvXogYzZ5NJVx7xTqii2/PXICHQDICVLIV8pxeAUomtyPLoaSIpkp61hT1AnIZWD/"
+                       sparkle:version="3.17.0+168"
                        sparkle:os="windows"
-                       length="54428759"
+                       length="54426085"
                        type="application/octet-stream" />
         </item>
     </channel>
