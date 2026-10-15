@@ -5,13 +5,13 @@
         <description>Most recent updates</description>
         <language>en</language>
         <item>
-            <title>Version 1.7.2</title>
-            <pubDate>Wed, 14 Oct 2026 09:12:48 +0000</pubDate>
-            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/robosell-v1.7.2/robosell_1.7.2.exe"
-                       sparkle:dsaSignature="MDwCHHJq3qCa8PcuNii3AuTCGvycaepO4hOA9n1SfPkCHAlWmGpAI7AvIMVpwS3Pn0AxPsRAFzW+BzMdWDw="
-                       sparkle:version="1.7.2+25"
+            <title>Version 1.7.3</title>
+            <pubDate>Thu, 15 Oct 2026 12:07:10 +0000</pubDate>
+            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/robosell-v1.7.3/robosell_1.7.3.exe"
+                       sparkle:dsaSignature="MDwCHDpI/+b1V9rn+0hMnbtpTOHYZ3mO+GmYYazFnkoCHEYKcpHvwEy3+Le2llBnCId4+HoXhfXiba09jpM="
+                       sparkle:version="1.7.3+26"
                        sparkle:os="windows"
-                       length="54058218"
+                       length="54060734"
                        type="application/octet-stream" />
         </item>
     </channel>
