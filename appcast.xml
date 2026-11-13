@@ -5,13 +5,13 @@
         <description>Most recent updates</description>
         <language>en</language>
         <item>
-            <title>Version 3.17.7</title>
-            <pubDate>Thu, 12 Nov 2026 10:43:13 +0000</pubDate>
-            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/bito-v3.17.7/bito_3.17.7.exe"
-                       sparkle:dsaSignature="MDwCHAtAHJzfGNDbDGSu/dbfXrN3n/pEc+bUOuUZV9MCHEkvaCW+flCYw2mHOL/vGF+LOAEGd2jC5/8Vm2k="
-                       sparkle:version="3.17.7+174"
+            <title>Version 3.17.8</title>
+            <pubDate>Fri, 13 Nov 2026 11:39:20 +0000</pubDate>
+            <enclosure url="https://github.com/AbbosbekUnical/uploader/releases/download/bito-v3.17.8/bito_3.17.8.exe"
+                       sparkle:dsaSignature="MDwCHCfseYfWCcIdyxDzrk1hiN9jGRIi6Yp2RrWp1sUCHEl0CwsyUpGA88020GONUEUxlzenuEnIzV11XS8="
+                       sparkle:version="3.17.8+175"
                        sparkle:os="windows"
-                       length="54070161"
+                       length="54071838"
                        type="application/octet-stream" />
         </item>
     </channel>
